@@ -1,0 +1,6 @@
+# Eclipse
+bin/
+.DS_Store
+
+# Maven
+target/
